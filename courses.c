@@ -14,6 +14,7 @@ int main() {
     switch (choice) {
         case 1:
             printf("You selected btech(cse).\n");
+	    printf("This is my course");
             break;
         case 2:
             printf("You selected btech(aiml).\n");
@@ -22,7 +23,7 @@ int main() {
             printf("You selected btech(ece).\n");
             break;
         case 4:
-            printf("You selected Chemistry.\n");
+            printf("You selected Mechanical.\n");
             break;
         default:
             printf("Invalid choice! Please select a number between 1 and 4.\n");
