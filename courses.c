@@ -26,6 +26,7 @@ int main() {
             break;
         case 4:
             printf("You selected Mechanical.\n");
+	    printf("this is my mechanical branch");
             break;
         default:
             printf("Invalid choice! Please select a number between 1 and 4.\n");
