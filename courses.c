@@ -22,7 +22,7 @@ int main() {
             printf("You selected btech(ece).\n");
             break;
         case 4:
-            printf("You selected Chemistry.\n");
+            printf("You selected Btech(Mechnical).\n");
             break;
         default:
             printf("Invalid choice! Please select a number between 1 and 4.\n");
