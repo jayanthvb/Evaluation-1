@@ -22,6 +22,7 @@ int main() {
             break;
         case 3:
             printf("You selected btech(ece).\n");
+	    printf("This is my ece course");
             break;
         case 4:
             printf("You selected Mechanical.\n");
